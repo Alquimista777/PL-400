@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\",
+  "WorkspaceRootPath": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|c:\\repositoriosswo\\personal\\pl-400 course\\extend the platform\\dataverse plug-in\\first plug-in\\customwebapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|c:\\repositoriosswo\\personal\\pl-400\\extend the platform\\dataverse plug-in\\first plug-in\\organizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|solutionrelative:organizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|c:\\repositoriosswo\\personal\\pl-400\\extend the platform\\dataverse plug-in\\first plug-in\\customwebapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|solutionrelative:customwebapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|c:\\repositoriosswo\\personal\\pl-400 course\\extend the platform\\dataverse plug-in\\first plug-in\\webaccessfromplug-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\webaccessfromplug-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|solutionrelative:webaccessfromplug-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|c:\\repositoriosswo\\personal\\pl-400 course\\extend the platform\\dataverse plug-in\\first plug-in\\sharedvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\sharedvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|solutionrelative:sharedvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\preoperationformatphonecreateupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\preoperationformatphonecreateupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|solutionrelative:preoperationformatphonecreateupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\preentityimagesandpostentityimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\preentityimagesandpostentityimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|solutionrelative:preentityimagesandpostentityimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\postoperationformatphoneonretrievemultiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\postoperationformatphoneonretrievemultiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1B35B84-1C63-4C02-85BF-680B77E0F32A}|first plug-in.csproj|solutionrelative:postoperationformatphoneonretrievemultiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -39,49 +43,60 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrganizationService.cs",
+              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\OrganizationService.cs",
+              "RelativeDocumentMoniker": "OrganizationService.cs",
+              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\OrganizationService.cs",
+              "RelativeToolTip": "OrganizationService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:20:03.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CustomWebAPI.cs",
-              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\CustomWebAPI.cs",
+              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\CustomWebAPI.cs",
               "RelativeDocumentMoniker": "CustomWebAPI.cs",
-              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\CustomWebAPI.cs",
+              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\CustomWebAPI.cs",
               "RelativeToolTip": "CustomWebAPI.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxYAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T15:08:29.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WebAccessFromPlug-in.cs",
-              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\WebAccessFromPlug-in.cs",
+              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\WebAccessFromPlug-in.cs",
               "RelativeDocumentMoniker": "WebAccessFromPlug-in.cs",
-              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\WebAccessFromPlug-in.cs",
+              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\WebAccessFromPlug-in.cs",
               "RelativeToolTip": "WebAccessFromPlug-in.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAqwCMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:13:09.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T14:13:09.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SharedVariables.cs",
-              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\SharedVariables.cs",
+              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\SharedVariables.cs",
               "RelativeDocumentMoniker": "SharedVariables.cs",
-              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\SharedVariables.cs",
+              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\SharedVariables.cs",
               "RelativeToolTip": "SharedVariables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T20:16:20.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T20:16:20.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PreEntityImagesAndPostEntityImages.cs",
-              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\PreEntityImagesAndPostEntityImages.cs",
+              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\PreEntityImagesAndPostEntityImages.cs",
               "RelativeDocumentMoniker": "PreEntityImagesAndPostEntityImages.cs",
-              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\PreEntityImagesAndPostEntityImages.cs",
+              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\PreEntityImagesAndPostEntityImages.cs",
               "RelativeToolTip": "PreEntityImagesAndPostEntityImages.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADwvw4AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,11 +104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PostOperationFormatPhoneOnRetrieveMultiple.cs",
-              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\PostOperationFormatPhoneOnRetrieveMultiple.cs",
+              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\PostOperationFormatPhoneOnRetrieveMultiple.cs",
               "RelativeDocumentMoniker": "PostOperationFormatPhoneOnRetrieveMultiple.cs",
-              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\PostOperationFormatPhoneOnRetrieveMultiple.cs",
+              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\PostOperationFormatPhoneOnRetrieveMultiple.cs",
               "RelativeToolTip": "PostOperationFormatPhoneOnRetrieveMultiple.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,11 +116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PreOperationFormatPhoneCreateUpdate.cs",
-              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\PreOperationFormatPhoneCreateUpdate.cs",
+              "DocumentMoniker": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\PreOperationFormatPhoneCreateUpdate.cs",
               "RelativeDocumentMoniker": "PreOperationFormatPhoneCreateUpdate.cs",
-              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400 Course\\Extend the platform\\Dataverse plug-in\\first plug-in\\PreOperationFormatPhoneCreateUpdate.cs",
+              "ToolTip": "C:\\RepositoriosSWO\\Personal\\PL-400\\Extend the platform\\Dataverse plug-in\\first plug-in\\PreOperationFormatPhoneCreateUpdate.cs",
               "RelativeToolTip": "PreOperationFormatPhoneCreateUpdate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

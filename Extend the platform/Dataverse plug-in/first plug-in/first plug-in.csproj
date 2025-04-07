@@ -97,6 +97,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CustomWebAPI.cs" />
+    <Compile Include="OrganizationService.cs" />
     <Compile Include="PostOperationFormatPhoneOnRetrieveMultiple.cs" />
     <Compile Include="PreEntityImagesAndPostEntityImages.cs" />
     <Compile Include="PreOperationFormatPhoneCreateUpdate.cs" />
