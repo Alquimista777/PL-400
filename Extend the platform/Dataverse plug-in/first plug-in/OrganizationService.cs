@@ -23,6 +23,7 @@ namespace first_plug_in
                 Entity task = new Entity("task");
                 task["subject"] = "Plug-in Organization service";
                 task["category"] = context.PrimaryEntityName;
+    
 
                 if(context.OutputParameters.Contains("id")) 
                 {
